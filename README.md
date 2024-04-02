@@ -29,4 +29,4 @@ Y[i] = X [i - 3] + X [i - 2] + X [i - 1] + X [ i ] + X [ i + 1 ] + X [i + 2] + X
 
 C results screenshot
 
-c_version.png
+(c_version.png)
