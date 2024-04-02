@@ -2,10 +2,11 @@
 
 ## C++ PROGRAM RUNTIME:
 
-LENGTH OF ARRAY |  RUNTIME (SECONDS)
-2 ^ 20          | 
-2 ^ 24          |
-2 ^ 30          |
+LENGTH OF ARRAY   |  RUNTIME (SECONDS)        |
+|-----------------|---------------------------|
+| 2 ^ 20          |  0.0189                   |
+| 2 ^ 24          |  0.02485                  |
+| 2 ^ 30          |  21.9918                  |
 
 
 ## x86-64 PROGRAM 
