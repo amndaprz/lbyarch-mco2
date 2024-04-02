@@ -26,3 +26,7 @@ ASM SANITY CHECK:
 The picture above shows a sanity check for when the array length is = 10. As seen in the GDB console, the vector Array Y contains the floating point values: 28, 35, 42, and  49. These are correct if we follow the given process specifications which is:
 Y[i] = X [i - 3] + X [i - 2] + X [i - 1] + X [ i ] + X [ i + 1 ] + X [i + 2] + X [ i +3 ]
 
+
+C results screenshot
+
+c_version.png
